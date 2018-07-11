@@ -24,18 +24,23 @@ public class Student {
     public int getStudentId() {
         return studentId;
     }
+
     public void setStudentId(int studentId) {
         this.studentId = studentId;
     }
+
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
+
     public String getSurname() {
         return surname;
     }
+
     public void setSurname(String surname) {
         this.surname = surname;
     }
